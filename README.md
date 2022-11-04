@@ -1,4 +1,4 @@
-=# Mini-Checkers Game
+# Mini-Checkers Game
 ## Description
 This game is a modified version of the traditional 8 x 8 checkers game. The rules are similar to the original game, except a few differences. Below is a summary of the game rules.
 1. The game is played on a 6 x 6 checkers board.
